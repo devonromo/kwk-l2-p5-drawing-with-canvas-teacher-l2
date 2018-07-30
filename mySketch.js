@@ -27,7 +27,7 @@ function setup() {
 function windowResized() {
   // this makes sure the canvas resizes when the window does
   resizeCanvas(windowWidth, windowHeight)
-  background(51)
+  background(52)
 }
 
 function draw() {
